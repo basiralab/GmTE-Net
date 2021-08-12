@@ -43,7 +43,7 @@ In order to use our framework, you need to provide a set of trajectories where a
 In the example below, given the brain graph at t1, GmTE-Net.py produces two trajectories each is a set of follow-up brain graphs of a specific modality. The brain connectivity matrices of one modality have a size of 35 x 35 and for the second modality they have a size of 116 x 116.
 
 <p align="center">
-  <img src="./GmTE-NET.png">
+  <img src="./GmTE_NET.png">
 </p>
 
 # YouTube videos to install and run the code and understand how GmTE-Net works
