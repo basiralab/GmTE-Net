@@ -47,7 +47,7 @@ In the example below, given the brain graph at t1, GmTE-Net.py produces two traj
 
 ![fig2](GmTE_Net.png)
 
-# YouTube videos to install and run the code and understand how GmTE-Net works
+# YouTube video to understand how GmTE-Net works
 
 
 To learn about how GmTE-Net works, check the following YouTube video:
