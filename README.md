@@ -6,7 +6,7 @@ This repository provides the official PyTorch implementation of the following pa
 ![fig1](main_figure.png)
 
 > **A Few-shot Learning Graph Multi-Trajectory EvolutionNetwork for Forecasting Multimodal Baby ConnectivityDevelopment from a Baseline Timepoint**<br/>
-> [Alaa Bessadok](https://github.com/AlaaBessadok) <sup>1,2</sup>, [Ahmed Nebli](https://github.com/ahmednebli) <sup>1</sup>, [Mohamed Ali Mahjoub]<sup>2</sup>, [Islem Rekik](https://basira-lab.com/) <sup>1</sup><br/>
+> [Alaa Bessadok](https://github.com/AlaaBessadok) <sup>1,2</sup>, [Ahmed Nebli](https://github.com/ahmednebli) <sup>1</sup>, [Mohamed Ali Mahjoub]<sup>2</sup>, [Gang Li]<sup>2</sup>,  [Weili Lin]<sup>2</sup>, [Dinggang Shen]<sup>2</sup>,  [Islem Rekik](https://basira-lab.com/) <sup>1</sup><br/>
 > <sup>1</sup>BASIRA Lab, Faculty of Computer and Informatics, Istanbul Technical University, Istanbul, Turkey<br/>
 > <sup>2</sup>Higher Institute of Informatics and Communication Technologies, University of Sousse, Tunisia<br/>
 >
