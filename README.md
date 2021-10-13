@@ -47,22 +47,26 @@ In the example below, given the brain graph at t1, GmTE-Net.py produces two traj
 
 # YouTube videos to install and run the code and understand how GmTE-Net works
 
-To install and run GmTE-Net, check the following YouTube video:
-https://youtu.be/
 
 To learn about how GmTE-Net works, check the following YouTube video:
-https://youtu.be/
+https://youtu.be/rXH9K6a7OAI
 
 # Please cite the following paper when using GmTE-Net:
 
 ```latex
-@inproceedings{
+@inproceedings{bessadok2021few,
+  title={A Few-Shot Learning Graph Multi-trajectory Evolution Network for Forecasting Multimodal Baby Connectivity Development from a Baseline Timepoint},
+  author={Bessadok, Alaa and Nebli, Ahmed and Mahjoub, Mohamed Ali and Li, Gang and Lin, Weili and Shen, Dinggang and Rekik, Islem},
+  booktitle={International Workshop on PRedictive Intelligence In MEdicine},
+  pages={11--24},
+  year={2021},
+  organization={Springer}
 }
 ```
 
 # GmTE-Net on arXiv 
 
-Link: https://arxiv.org/abs/
+Link: https://arxiv.org/abs/2110.03535
 
 # License
 Our code is released under MIT License (see LICENSE file for details).
